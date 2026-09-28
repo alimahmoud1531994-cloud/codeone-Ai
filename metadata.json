@@ -1,0 +1,6 @@
+{
+  "name": "CodeOne",
+  "description": "CodeOne - المساعد التقني الذكي وحلول الذكاء الاصطناعي وهندسة البرمجيات المتطورة من كود وان",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

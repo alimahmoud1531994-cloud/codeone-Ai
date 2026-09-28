@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <!-- Hexagonal / Shield Tech Base -->
+    <path
+        android:fillColor="#0E1A36"
+        android:pathData="M 24,2 L 44,13 L 44,35 L 24,46 L 4,35 L 4,13 Z" />
+
+    <!-- Cyan Border Glow -->
+    <path
+        android:strokeColor="#00D2FF"
+        android:strokeWidth="1.5"
+        android:pathData="M 24,3 L 43,13.5 L 43,34.5 L 24,45 L 5,34.5 L 5,13.5 Z" />
+
+    <!-- Left Code Bracket (<) -->
+    <path
+        android:fillColor="#00D2FF"
+        android:pathData="M 17,20 L 12,24 L 17,28 L 15,30 L 9,24 L 15,18 Z" />
+
+    <!-- Right Code Bracket (>) -->
+    <path
+        android:fillColor="#00D2FF"
+        android:pathData="M 31,20 L 36,24 L 31,28 L 33,30 L 39,24 L 33,18 Z" />
+
+    <!-- 3D Numeral '1' Shadow -->
+    <path
+        android:fillColor="#0D59F2"
+        android:pathData="M 19,19 L 25,13 L 29,13 L 29,33 L 32,33 L 32,36 L 19,36 L 19,33 L 24,33 L 24,19 Z" />
+
+    <!-- 3D Numeral '1' Highlight -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 21,17 L 24,14 L 27,14 L 27,32 L 30,32 L 30,34 L 20,34 L 20,32 L 23,32 L 23,17 Z" />
+
+    <!-- Sparkle dot -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M 32,12 L 34,14 L 32,16 L 30,14 Z" />
+
+</vector>

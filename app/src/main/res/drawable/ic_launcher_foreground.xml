@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Tech Aura / Glow Circle -->
+    <path
+        android:fillColor="#152042"
+        android:pathData="M 54,20 A 34,34 0 1 1 53.99,20 Z" />
+
+    <!-- Left Code Angle Bracket (<) in Neon Cyan -->
+    <path
+        android:fillColor="#00D2FF"
+        android:pathData="M 36,44 L 28,54 L 36,64 L 33,67 L 23,54 L 33,41 Z" />
+
+    <!-- Right Code Angle Bracket (>) in Neon Cyan -->
+    <path
+        android:fillColor="#00D2FF"
+        android:pathData="M 72,44 L 80,54 L 72,64 L 75,67 L 85,54 L 75,41 Z" />
+
+    <!-- 3D Numeral '1' - Depth Shadow Facet (Electric Royal Blue) -->
+    <path
+        android:fillColor="#0D59F2"
+        android:pathData="M 44,43 L 56,31 L 62,31 L 62,75 L 68,75 L 68,81 L 43,81 L 43,75 L 53,75 L 53,43 Z" />
+
+    <!-- 3D Numeral '1' - Front Highlight Face (Pure White & Bright Cyan) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 46,40 L 53,32 L 58,32 L 58,74 L 64,74 L 64,78 L 45,78 L 45,74 L 51,74 L 51,40 Z" />
+
+    <!-- Tech Diamond Dot / Sparkle at upper right -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M 71,28 L 74,31 L 71,34 L 68,31 Z" />
+
+</vector>
+
